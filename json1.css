@@ -5,3 +5,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: black;
+    color: black;
+}
+.head{
+    color: white;
+    gap: 9px;
+    text-align: center;
+    margin-top: 60px;
+}
