@@ -1,0 +1,1 @@
+const para1 = document.querySelector("h1").innerHTML = "Am the best person"
