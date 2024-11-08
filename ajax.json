@@ -1,0 +1,33 @@
+[
+
+    {
+        "name": "Moses Okode",
+        "age": 23,
+        "country": "Kenya",
+        "school": "Technical University of Kenya",
+        "grade": ["A", "A", "A"]        
+    },
+    {
+     "name": "Phenna John",
+        "age": 32,
+        "country": "Kenya",
+        "school": "Kenyatta University",
+        "grade": ["A", "B", "B"]    
+    },
+    {
+        "name": "Irene Jones",
+        "age": 37,
+        "country": "Kenya",
+        "school": "University of Nairobi",
+        "grade": ["A", "B", "A"] 
+    },
+    {
+        "name": "Melsa Okode",
+        "age": 23,
+        "country": "Kenya",
+        "school": "Technical University of Kenya",
+        "grade": ["A", "B", "C"] 
+    }
+
+
+]
